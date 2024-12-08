@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KonradKrygielski
 - 👀 I’m interested in ... coding, basketball, gaming and photography.
-- 🌱 I’m currently learning ... JavaScript, CSS and HTML.
+- 🌱 I’m currently learning ... C++.
 <!-- - 💞️ I’m looking to collaborate on ... not yet!
 - 📫 How to reach me ... not yet! -->
 
